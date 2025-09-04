@@ -1,0 +1,21 @@
+{
+  "target": "gemini.google.com",
+  "reconnaissance": {},
+  "weaponization": {},
+  "delivery": {},
+  "exploitation": {},
+  "installation": {},
+  "command_control": {},
+  "actions_objectives": {},
+  "command_history": [],
+  "findings": [],
+  "vulnerabilities": [],
+  "session_summary": {
+    "total_commands": 0,
+    "vulnerabilities_found": 0,
+    "phases_completed": [],
+    "session_duration": "Unknown",
+    "target": "gemini.google.com",
+    "final_phase": "reconnaissance"
+  }
+}
